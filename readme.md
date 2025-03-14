@@ -1,4 +1,8 @@
 # Bot Submission: Rule-Enhanced PPO Agent
+## Matches against other teams
+<video src="https://github.com/user-attachments/assets/8883fade-755b-4b6a-b1ab-bfa7fedbcaf8" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/bdf8356e-04dc-4296-a4cb-878e23225320" controls width="600"></video>
+
 ## Development Process
 Our approach combines machine learning with rule-based techniques to create a robust and adaptable agent for the Brawl environment.
 
